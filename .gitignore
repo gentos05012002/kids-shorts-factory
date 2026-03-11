@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+output/*
+!output/.gitkeep
+media/*
+!media/.gitkeep
+voices/*
+!voices/.gitkeep
+logs/*
+!logs/.gitkeep
